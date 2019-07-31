@@ -1,5 +1,5 @@
 # avancepwc
-# Fist stage - Scalable Web Platform / Primer avance - Plataforma Web (SWP)
+# First stage - Scalable Web Platform / Primer avance - Plataforma Web (SWP)
 django - bootstrapt.
 
 A Web platform. framework for scalable projects,
